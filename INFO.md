@@ -7,3 +7,5 @@ Tutorial utilizado: https://docs.microsoft.com/es-es/dotnet/machine-learning/tut
 Otros Tutoriales: https://docs.microsoft.com/es-es/dotnet/machine-learning/
 
 Informacion de la presentacion:
+
+URL pagina: http://cordobaramiro-001-site1.btempurl.com/
