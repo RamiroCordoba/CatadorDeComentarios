@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Catador de comentarios";
+}
+
+<div class="text-center">
+    <h2>Catador de Comentarios</h2>
+
+    <p><textarea id="Message" cols="45" placeholder="Ingrese un comentario en ingles"></textarea></p>
+
+    <div class="sentiment">
+        <h4>Tu comentario es...</h4>
+        <p>😡 😐 😍</p>
+
+        <div class="marker">
+            <div id="markerPosition" style="left: 45%;">
+                <div>▲</div>
+                <label id="markerValue">Neutral</label>
+            </div>
+        </div>
+    </div>
+</div>
