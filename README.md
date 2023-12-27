@@ -1,0 +1,1 @@
+Programa que realiza la categorizacion (Bueno o Malo) de un comentario escrito por el usuario. El mismo programa esta basado en Maching Learning y utiliza el modo de entrenamiento Data Lake para realizar la seleccion del resultado.
